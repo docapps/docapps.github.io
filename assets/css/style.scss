@@ -8,11 +8,3 @@
   display: none !important;
 }
 
-.page-header {
-  color: $header-heading-color;
-  text-align: center;
-  background-color: #3339FF;
-
-  @include large {
-    padding: 5rem 6rem;
-  }
